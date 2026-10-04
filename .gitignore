@@ -1,0 +1,24 @@
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# AI Models / Large files (GitHub blocks files > 100MB)
+saved_summary_model/
+*.pt
+*.bin
+*.h5
+
+# OS generated files
+.DS_Store
+Thumbs.db
